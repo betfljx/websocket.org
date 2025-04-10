@@ -1,10 +1,10 @@
-#https:// WebSocket.org
+#https://www.ufa-comdo.com/WebSocket.org
 
 This is a community maintained website for all things WebSockets.
 
-See website at https://websocket.org/
+See website at https://www.ufa-comdo.com/websocket.org/
 
-We are also hosting a WebSocket echo server freely available for the community at https://echo.websocket.org/
+We are also hosting a WebSocket echo server freely available for the community at https://www.ufa-comdo.com/echo.websocket.org/
 
 # Making and deploying changes
 
